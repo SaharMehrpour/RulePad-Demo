@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/RulePad-Demo/static/js/1.5ebad57d.chunk.js"
   },
   {
-    "revision": "97d7322accf18fcb2168",
+    "revision": "71d795e8326adad2fef6",
     "url": "/RulePad-Demo/static/css/main.a10f5501.chunk.css"
   },
   {
-    "revision": "97d7322accf18fcb2168",
-    "url": "/RulePad-Demo/static/js/main.97d7322a.chunk.js"
+    "revision": "71d795e8326adad2fef6",
+    "url": "/RulePad-Demo/static/js/main.71d795e8.chunk.js"
   },
   {
     "revision": "3db3fe0e1f58a5b34375",
@@ -300,20 +300,20 @@ self.__precacheManifest = [
     "url": "/RulePad-Demo/static/js/runtime~main.a128da65.js"
   },
   {
-    "revision": "37e995c08b7baecd51e4ea48f6bfcc11",
-    "url": "/RulePad-Demo/editor.worker.js"
-  },
-  {
-    "revision": "9dbb545a8ef952c85374dcb7753d4666",
-    "url": "/RulePad-Demo/html.worker.js"
-  },
-  {
     "revision": "f9a74a5e5bf0d5f137cb48914fce5e7d",
     "url": "/RulePad-Demo/json.worker.js"
   },
   {
+    "revision": "37e995c08b7baecd51e4ea48f6bfcc11",
+    "url": "/RulePad-Demo/editor.worker.js"
+  },
+  {
     "revision": "5eb12aea2fb7f7770b3a959695de32d0",
     "url": "/RulePad-Demo/css.worker.js"
+  },
+  {
+    "revision": "9dbb545a8ef952c85374dcb7753d4666",
+    "url": "/RulePad-Demo/html.worker.js"
   },
   {
     "revision": "eed06a68e97f3faf17d0a3cedaab86fe",
@@ -372,7 +372,7 @@ self.__precacheManifest = [
     "url": "/RulePad-Demo/static/media/codicon.22349029.ttf"
   },
   {
-    "revision": "90789633855f436aaba1e751358ecaee",
+    "revision": "96caf62b07c1fac995f3f7bb9dd1bba1",
     "url": "/RulePad-Demo/index.html"
   }
 ];
